@@ -1,0 +1,2 @@
+localhost ansible_host=127.0.0.1   ansible_user=root ansible_ssh_pass=czl123456
+#aaa       ansible_host=192.168.63.136 ansible_user=root ansible_ssh_pass=123456
